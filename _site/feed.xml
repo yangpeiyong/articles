@@ -7,6 +7,19 @@
     <atom:link href="http://helloa.cn/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>深入理解ThreadLocal</title>
+        <description>&lt;p&gt;&lt;em&gt;本文尚在撰写过程中，计划完成时间 2018-8-30&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;graph LR
+A--&amp;gt;B
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 28 Aug 2018 22:32:18 +0800</pubDate>
+        <link>http://helloa.cn/java/2018/08/28/ThreadLocal/</link>
+        <guid isPermaLink="true">http://helloa.cn/java/2018/08/28/ThreadLocal/</guid>
+      </item>
+    
+      <item>
         <title>聊聊Android开发中的多线程</title>
         <description>&lt;p&gt;&lt;em&gt;本文尚在撰写过程中，计划完成时间 2018-8-29&lt;/em&gt;&lt;/p&gt;
 
